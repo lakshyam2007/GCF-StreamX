@@ -1,2 +1,3 @@
 # GCF-StreamX
-StreamX
+StreamX-a streaming platform
+
